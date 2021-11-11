@@ -1,0 +1,21 @@
+.CodeMirror {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    height: auto;
+}
+
+.CodeMirror-scroll {
+    min-height: 180px;
+    max-height: 500px;
+}
+
+.alert-trim {
+    display: inline-block;
+    border: 1px solid gold;
+    color: black;
+}
+
+.card-columns{
+    column-count: 1;
+    column-gap: 0rem;
+}
